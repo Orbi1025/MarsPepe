@@ -117,6 +117,10 @@
                           className: "text-[32px]",
                           children: "Go get it.",
                         }),
+                        (0, s.jsx)(o.E.span, {
+                          className: "text-[32px]",
+                          children: "0xcomingsoon",
+                        }),
                       ],
                     }),
                     (0, s.jsx)(o.E.a, {
@@ -141,11 +145,11 @@
                       style: {
                         boxShadow: "0px 4px 0px 0px #381D2F",
                       },
-
+                      href: "https://dexscreener.com/ethereum/0xcomingsoon",
                       target: "_blank",
                       children: (0, s.jsx)("img", {
-                        src: "/two/icon-gate.png",
-                        className: "w-[183px] h-[42px]",
+                        src: "/two/dexscreener.png",
+                        className: "w-[150px] h-[60px]",
                       }),
                     }),
                     (0, s.jsx)(o.E.a, {
@@ -170,7 +174,7 @@
                       style: {
                         boxShadow: "0px 4px 0px 0px #381D2F",
                       },
-                      href: "https://app.uniswap.org/explore/tokens/ethereum/0xECDB7D9dEB4BD0fBCcBD2E58Df3c7C063d8AddAd",
+                      href: "https://app.uniswap.org/explore/tokens/ethereum/0xcomingsoon",
                       target: "_blank",
                       children: (0, s.jsx)("img", {
                         src: "/two/icon-uniswap.png",
@@ -199,11 +203,11 @@
                       style: {
                         boxShadow: "0px 4px 0px 0px #381D2F",
                       },
-
+                      href: "https://www.coingecko.com/",
                       target: "_blank",
                       children: (0, s.jsx)("img", {
-                        src: "/two/icon-mexc.png",
-                        className: "w-[196px] h-[30px]",
+                        src: "/two/coingecko.png",
+                        className: "w-[250px] h-[60px]",
                       }),
                     }),
                   ],
@@ -373,7 +377,7 @@
                       className: "mt-[20px] cursor-pointer",
                       onClick: () =>
                         window.open(
-                          "https://app.uniswap.org/explore/tokens/ethereum/0xECDB7D9dEB4BD0fBCcBD2E58Df3c7C063d8AddAd",
+                          "https://app.uniswap.org/explore/tokens/ethereum/0xcomingsoon",
                           "_blank"
                         ),
                       children: (0, s.jsx)("img", {
@@ -889,7 +893,7 @@
                     whileTap: {
                       scale: 0.95,
                     },
-                    href: "https://t.me/marspepe_eth",
+                    href: "https://t.me/Mars_Pepe_entry",
                     target: "_blank",
                     className:
                       "flex flex-col items-center justify-center cursor-pointer",
@@ -917,7 +921,7 @@
                     whileTap: {
                       scale: 0.95,
                     },
-                    href: "https://x.com/marspepe_eth",
+                    href: "https://x.com/Mars_Pepe",
                     target: "_blank",
                     className:
                       "flex flex-col items-center justify-center cursor-pointer",
@@ -1120,7 +1124,7 @@
                       whileTap: {
                         scale: 0.95,
                       },
-                      href: "https://t.me/marspepe_eth",
+                      href: "https://t.me/Mars_Pepe_entry",
                       target: "_blank",
                       children: (0, s.jsx)("img", {
                         src: "/first/icon-t.svg",
@@ -1135,7 +1139,7 @@
                       whileTap: {
                         scale: 0.95,
                       },
-                      href: "https://x.com/marspepe_eth",
+                      href: "https://x.com/Mars_Pepe",
                       target: "_blank",
                       children: (0, s.jsx)("img", {
                         src: "/first/icon-x.svg",
@@ -1300,7 +1304,7 @@
                         boxShadow: "0px 4PX 0px 0px #381D2F",
                         width: "89vw",
                       },
-                      href: "https://app.uniswap.org/explore/tokens/ethereum/0xECDB7D9dEB4BD0fBCcBD2E58Df3c7C063d8AddAd",
+                      href: "https://app.uniswap.org/explore/tokens/ethereum/0xcomingsoon",
                       target: "_blank",
                       children: (0, s.jsx)("img", {
                         src: "/two/icon-uniswap.png",
@@ -1430,7 +1434,7 @@
                       className: "mt-[5.3vw] cursor-pointer",
                       onClick: () =>
                         window.open(
-                          "https://app.uniswap.org/explore/tokens/ethereum/0xECDB7D9dEB4BD0fBCcBD2E58Df3c7C063d8AddAd",
+                          "https://app.uniswap.org/explore/tokens/ethereum/0xcomingsoon",
                           "_blank"
                         ),
                       children: (0, s.jsx)("img", {
@@ -1971,7 +1975,7 @@
                         whileTap: {
                           scale: 0.95,
                         },
-                        href: "https://t.me/marspepe_eth",
+                        href: "https://t.me/Mars_Pepe_entry",
                         target: "_blank",
                         className:
                           "flex flex-col items-center justify-center cursor-pointer",
@@ -1999,7 +2003,7 @@
                         whileTap: {
                           scale: 0.95,
                         },
-                        href: "https://x.com/marspepe_eth",
+                        href: "https://x.com/Mars_Pepe",
                         target: "_blank",
                         className:
                           "flex flex-col items-center justify-center cursor-pointer",
